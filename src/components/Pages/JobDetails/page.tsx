@@ -76,7 +76,7 @@ const JobDetailsPage = () => {
                 </div>
 
                 {/* Sidebar Section */}
-                
+                 
 
                 <div className="bg-white shadow-md rounded-lg p-6 max-w-sm mx-auto">
                     <h2 className="text-lg font-bold mb-2">{job.title}</h2>

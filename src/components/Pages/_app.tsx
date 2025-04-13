@@ -3,7 +3,7 @@ import { Open_Sans } from 'next/font/google';
 
 const openSans = Open_Sans({
   subsets: ['latin'],
-  weight: ['400', '600', '700'], // Define desired font weights
+  weight: ['400', '600', '700'], 
 });
 
 function MyApp({ Component, pageProps }: AppProps) {
